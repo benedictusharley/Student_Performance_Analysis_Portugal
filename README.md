@@ -1,2 +1,4 @@
 # Student_Performance_Analysis_Portugal
-Analysis of 2005-2006 student performance in two Portuguese schools. Explores the impact of factors like weekend alcohol consumption, family relationships, and travel time on final grades. Includes dataset, exploratory data analysis, regression models, and statistical tests to identify significant predictors of academic performance.
+This project analyzes the relationships between academic performance and various socio-economic and lifestyle factors for students in Portugal's Alentejo region during the 2005-2006 academic year. Using data from two public schools, the study explores the impact of variables such as weekend alcohol consumption, family relationships, and travel time on students' final grades. The analysis includes exploratory data analysis, regression modeling, and statistical testing to uncover significant predictors of academic performance. The repository contains the dataset, analysis scripts, and visualizations.
+
+
